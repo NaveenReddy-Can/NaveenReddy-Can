@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @NaveenReddy-Can
 - 👀 I’m interested in Cloud technologies, programming and Sports.
+- 💁 My personal website: https://naveenreddy-can.github.io/MyPersonalWebSite/
 - 🌱 I’m currently learning AWS, C# .Netframework with MVC web applications and Devops
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me at mail: NaveenReddy.can@gmail.com
