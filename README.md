@@ -56,6 +56,15 @@
 ---
 
 ### :writing_hand: Blog Posts :
+-- Ansible :https://medium.com/@nrkb1998/what-is-ansible-in-dev-ops-244a8de78304
+      
+-- Github vs Git :https://medium.com/dev-genius/how-git-hub-is-different-from-git-934413d5f1ec
+      
+-- Puppet :https://medium.com/@nrkb1998/what-is-puppet-why-do-we-need-it-8a45b96f771f
+      
+-- Azure Cli: https://medium.com/@nrkb1998/introduction-to-azure-cli-and-managing-virtual-machines-with-azure-cli-eaa286ad419a
+      
+-- Docker : https://medium.com/@nrkb1998/what-is-docker-why-do-we-use-it-and-why-it-is-so-prominent-f92f92f97ba0
 <!---
 NaveenReddy-Can/NaveenReddy-Can is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
