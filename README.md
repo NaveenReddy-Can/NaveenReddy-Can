@@ -84,7 +84,7 @@
 ---
 
 ### :fire: My Stats : 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NaveenReddy-Can&theme=dark&background=000000&hide_border=true)](https://git.io/streak-stats) <br>  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenReddy-Can&layout=compact&theme=vision-friendly-dark)](https://github.com/NaveenReddy-Can/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NaveenReddy-Can&theme=dark&background=000000&hide_border=true)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenReddy-Can&layout=compact&theme=vision-friendly-dark)](https://github.com/NaveenReddy-Can/github-readme-stats)
 
 ---
 ## 🏆 GitHub Trophies
