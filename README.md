@@ -32,7 +32,18 @@
 - ---
 
 ### :hammer_and_wrench: Languages and Tools :
+      Cloud:
+      Prograamming languages:
+      Backend Servers:
+      Relational Databases:
+      No SQL Databses:
+      Front end Webdevelopment:
+      Visualization:
+      Wireframe and designings:
+      Project mangaement:
+      Tools and Softwares:
 <div>
+   
     <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" **alt="Azure" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
